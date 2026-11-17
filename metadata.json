@@ -1,0 +1,6 @@
+{
+  "name": "ECZ AI",
+  "description": "Examinations Council of Zambia (ECZ) AI study tutor, past papers, mock exam simulator, and syllabus assistant for Grades 7, 9, 12 and GCE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
